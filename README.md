@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **ojasiiitd/ojasiiitd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am Ojas, a Junior at IIIT-Delhi, Computer Science and Social Sciences Dept.
+
+### Get in touch ✉️
+
+- By email [ojasva18352@iiitd,ac.in](mailto:ojasva18352@iiitd,ac.in)
+- On [LinkedIn](https://www.linkedin.com/in/ojasva-saxena-118473188/)
