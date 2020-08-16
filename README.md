@@ -9,6 +9,6 @@ Currently interested in Deep Learning, Computer Vison and Econometric Modelling.
 ---
 ### Reach Me:
 
-- By email [ojasva18352@iiitd,ac.in](mailto:ojasva18352@iiitd,ac.in)
+- By email [ojasva18352@iiitd,ac.in](mailto:ojasva18352@iiitd.ac.in)
 - On [LinkedIn](https://www.linkedin.com/in/ojasva-saxena-118473188/)
 - On [Codechef](https://www.codechef.com/users/ojasiiitd)
