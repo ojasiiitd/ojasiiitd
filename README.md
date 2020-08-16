@@ -1,8 +1,8 @@
 # Hi there!
 
-I am currently a Junior at IIIT-Delhi, Computer Science and Social Sciences Dept.
+I'm currently a Junior at IIIT-Delhi, Computer Science and Social Sciences Dept.
 
-I'm Majoring in Computer Science and my Minor subjects are Economics and Sociology.
+Majoring in Computer Science and my Minor subjects are Economics and Sociology.
 
 Currently interested in Deep Learning, Computer Vison and Econometric Modelling.
 
