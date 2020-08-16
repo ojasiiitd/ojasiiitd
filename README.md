@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there!
 
 I am currently a Junior at IIIT-Delhi, Computer Science and Social Sciences Dept.
 
@@ -7,7 +7,7 @@ I'm Majoring in Computer Science and my Minor subjects are Economics and Sociolo
 Currently interested in Deep Learning, Computer Vison and Econometric Modelling.
 
 ---
-### 📫 How to reach me:
+### Reach Me:
 
 - By email [ojasva18352@iiitd,ac.in](mailto:ojasva18352@iiitd,ac.in)
 - On [LinkedIn](https://www.linkedin.com/in/ojasva-saxena-118473188/)
