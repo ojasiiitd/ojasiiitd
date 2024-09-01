@@ -1,10 +1,6 @@
 # Hi there!
 
-I'm currently a Senior at IIIT-Delhi, Computer Science and Social Sciences Dept.
-
-Majoring in Computer Science with Economics and Sociology as Minor subjects.
-
-Currently interested in Deep Learning, Computer Vison and Econometric Modelling.
+I've completed my Bachelor's at IIIT-Delhi, Computer Science and Social Sciences Dept, Majoring in Computer Science with Economics and Sociology as Minor subjects.
 
 ---
 ### Reach Me:
