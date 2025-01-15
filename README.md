@@ -10,5 +10,5 @@ I'm also interested in Ancient History, I enjoy reading Fiction and enjoy going 
 ---
 ### Reach Me:
 
-- By email [ojasva18352@iiitd,ac.in](mailto:ojasva18352@iiitd.ac.in)
+- By email [ojasva18352@iiitd.ac.in](mailto:ojasva18352@iiitd.ac.in)
 - On [LinkedIn](https://www.linkedin.com/in/ojasva-saxena-118473188/)
